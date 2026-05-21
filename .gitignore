@@ -1,3 +1,7 @@
+# Project data and presentations (excluded from repo)
+data/
+*.pptx
+
 # uu_framework - Static site generator
 _site/
 pdf_extraction*.txt
